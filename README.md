@@ -1,4 +1,4 @@
-# wanted
+# Wanted
 Face recognition wanted list.
 
 ### For more informations watch this video.
